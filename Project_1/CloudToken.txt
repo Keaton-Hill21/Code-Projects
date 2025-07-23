@@ -1,0 +1,7 @@
+cloudflared tunnel run --token eyJhIjoiYWJiODJmOTg5MGIwZjUwZmFlOWY1ZGExNjdjNzI1Y2EiLCJ0IjoiMjUyZTQ3MmMtMzk1Yy00MmRjLThlNmEtNDI5M2QxZTU3MzBmIiwicyI6Ik9UQmhZV0ZrTnprdE9XVmlNeTAwTkdJMUxXSmtOV1l0WVRZeFl6RTJZV1ZpWVRrNCJ9
+
+
+https://n8n.1029312.xyz
+
+
+http://127.0.0.1:5678
